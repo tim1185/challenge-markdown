@@ -6,9 +6,9 @@ _carpe diem_
 
 ## Loves to learn new things
 
-|  Birthday  | | gender | |favorite color| |favorite food| |favorite food| |pineapple on pizza|
+| Birthday  | gender  |favorite color  |favorite food  | pineapple on pizza  |
  | :---: | | :---: | | :---: | | :---: | | :---: |
- |  11/11  | | male || blue,black | | italian food | | yes |
+ |  11/11  | male |blue,black | italian food | | [v]yes [] no|
  
  
 
